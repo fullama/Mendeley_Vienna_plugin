@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Name</key>
+    <string>ShareWithMendeley</string>
+    <key>Default</key>
+    <false/>
+    <key>Type</key>
+    <string>Link</string>
+    <key>FriendlyName</key>
+    <string>Mendeley</string>
+    <key>Tooltip</key>
+    <string>Add the current article to Mendeley</string>
+    <key>ButtonImage</key>
+    <string>MendeleyButton</string>
+    <key>MenuPath</key>
+    <string>Share With Mendeley</string>
+    <key>URL</key>
+    <string>https://www.mendeley.com/import/?url=$ArticleLink$</string>
+</dict>
+</plist>
+
+
+
+
