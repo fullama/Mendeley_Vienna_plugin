@@ -1,6 +1,6 @@
 # Mendeley Vienna Plugin
 
-###Plugin for vienna RSS reader to send articles to Mendeley  
+###Plugin for Vienna RSS reader (Mac) to send articles to Mendeley  
    - First Vienna can be gotten here: http://www.vienna-rss.org/  
    - To install the plugin:
      * Download and extract the mendeley.viennaplugin file
@@ -13,6 +13,9 @@
        * View > Customise Toolbar in Vienna
   
    - RSS feeds from pubmed searches can be added to Vienna
+     * eg. click on the + in Vienna and paste the following link:
+         * http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=18mpxdVb_vLsu7lPiViaB5chnaHHBmdx9um6CQx9BF1dZVbwNE
+     * This subscribes you to a feed with new papers on p53
      * These articles can be added to mendeley by clicking:
        * Article > share with mendeley
 
