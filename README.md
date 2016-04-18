@@ -24,12 +24,15 @@
 First install Vienna: http://www.vienna-rss.org/
 
 Download Plugin - click 'Download ZIP':
+
 ![Download](/screenshots/Download_plugin.png?raw=true)
 
 Double click the downloaded zip file to extract it:
+
 ![extract](/screenshots/Extract_plugin.png?raw=true)
 
 You will then have a folder:
+
 ![folder](/screenshots/Extract_plugin2.png?raw=true)
 
 In this folder double click the mendeley.viennaplugin file:
