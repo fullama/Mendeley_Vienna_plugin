@@ -19,3 +19,8 @@
      * Interesting articles can be added to mendeley by clicking:
        * Article > share with mendeley
 
+###Instructions with screenshots:
+
+Download Plugin:
+![Download](/screenshots/Downloadplugin.png?raw=true "Optional Title")
+
