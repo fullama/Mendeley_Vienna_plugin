@@ -16,6 +16,6 @@
      * eg. click on the + in Vienna and paste the following link:
          * http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=18mpxdVb_vLsu7lPiViaB5chnaHHBmdx9um6CQx9BF1dZVbwNE
      * This subscribes you to a feed with new papers on p53
-     * These articles can be added to mendeley by clicking:
+     * Interesting articles can be added to mendeley by clicking:
        * Article > share with mendeley
 
