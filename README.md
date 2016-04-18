@@ -1,5 +1,4 @@
-# Utilities
-Handy Tools
+# Mendeley Vienna Plugin
 
 ###Plugin for vienna RSS reader to send articles to Mendeley  
    - First Vienna can be gotten here: http://www.vienna-rss.org/  
