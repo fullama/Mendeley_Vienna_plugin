@@ -1,6 +1,9 @@
 # Mendeley Vienna Plugin
 
-###Plugin for Vienna RSS reader (Mac) to send articles to Mendeley  
+###Plugin for Vienna RSS reader (Mac) to send articles to Mendeley 
+
+
+###Instructions:
    - First Vienna can be gotten here: http://www.vienna-rss.org/  
    - To install the plugin:
      * Download and extract the mendeley.viennaplugin file
@@ -23,7 +26,7 @@
 ####Installation
 First install Vienna: http://www.vienna-rss.org/
 
-Download Plugin - click 'Download ZIP':
+Download Plugin - click 'Download ZIP' above:
 
 ![Download](/screenshots/Download_plugin.png?raw=true)
 
@@ -43,7 +46,7 @@ If installation successful you will see this message:
 
 ![confirm](/screenshots/Confirmation.png?raw=true)
 
-To add an 'add to Mendeley' Button click: View > customise Toolbar:
+To add an 'add to Mendeley' Button, In Vienna click: View > customise Toolbar:
 
 ![button](/screenshots/add_button1.png?raw=true)
 
@@ -69,7 +72,7 @@ This is the feed added to Vienna:
 ![feed](/screenshots/pubmed_feed.png?raw=true)
 
 ####Adding Articles to Mendeley
-You can click the add to mendeley button to add articles to Mendeley  
+You can click the add to Mendeley button to add articles to Mendeley  
 Sign in first:
 
 ![add1](/screenshots/sign_in.png?raw=true)
