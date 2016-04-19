@@ -12,15 +12,15 @@
          * or click 'Download ZIP', and unzip the downladed file
      * Double click on the mendeley.viennaplugin file
      *  The plugin is now installed (message box will confirm)
-     *  A 'Share with Mendely' button can also be added by going to:
+     *  A 'Share with Mendeley' button can also be added by going to:
        * View > Customise Toolbar in Vienna
   
    - RSS feeds from pubmed searches can be added to Vienna
      * eg. click on the + in Vienna and paste the following link:
          * http://www.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=18mpxdVb_vLsu7lPiViaB5chnaHHBmdx9um6CQx9BF1dZVbwNE
      * This subscribes you to a feed with new papers on p53
-     * Interesting articles can be added to mendeley by clicking:
-       * Article > share with mendeley
+     * Interesting articles can be added to Mendeley by clicking:
+       * Article > share with Mendeley
 
 ###Instructions with screenshots:
 ####Installation
@@ -50,7 +50,7 @@ To add an 'add to Mendeley' Button, In Vienna click: View > customise Toolbar:
 
 ![button](/screenshots/add_button1.png?raw=true)
 
-then drag the Mendely button to the toolbar:
+then drag the Mendeley button to the toolbar:
 
 ![button2](/screenshots/add_button2.png?raw=true)
 
@@ -72,7 +72,7 @@ This is the feed added to Vienna:
 ![feed](/screenshots/pubmed_feed.png?raw=true)
 
 ####Adding Articles to Mendeley
-You can click the add to Mendeley button to add articles to Mendeley  
+You can click the 'add to Mendeley' button to add articles to Mendeley  
 Sign in first:
 
 ![add1](/screenshots/sign_in.png?raw=true)
